@@ -1,4 +1,4 @@
-# **Explorando os Rios de São Paulo: Uma Busca Simples e Intuitiva**
+# **Explorando os Rios de São Paulo: Uma Busca Simples e Intuitiva - ImersãoDev**
 
 **O que é esse projeto?**
 
