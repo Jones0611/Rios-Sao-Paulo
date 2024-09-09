@@ -61,4 +61,3 @@ Agradecemos a todos que contribuíram para este projeto! Sua ajuda é fundamenta
 * **Crie uma seção de FAQ:** Responda às perguntas mais comuns sobre o projeto.
 * **Inclua um guia de instalação:** Explique como instalar as dependências necessárias para executar o projeto.
 
-Com este README.md bem estruturado e informativo, você estará pronto para compartilhar seu projeto com a comunidade e receber feedbacks valiosos.
